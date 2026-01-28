@@ -1,0 +1,16 @@
+{
+    "filament_settings_id": [
+        "ELEGOO PLA Matte"
+    ],
+    "from": "User",
+    "inherits": "ELEGOO PLA Matte @Prusa MINIIS 0.6 nozzle",
+    "is_custom_defined": "0",
+    "name": "ELEGOO PLA Matte",
+    "pressure_advance": [
+        "0.137"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "version": "2.3.0.0"
+}

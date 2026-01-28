@@ -1,0 +1,19 @@
+{
+    "compatible_printers": [
+        "Prusa MINIIS 0.6 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Overture Matte PLA @System - Copy"
+    ],
+    "from": "User",
+    "inherits": "Overture Matte PLA @System",
+    "is_custom_defined": "0",
+    "name": "Overture Matte PLA @System - Copy",
+    "pressure_advance": [
+        "0.16"
+    ],
+    "version": "2.3.1.10"
+}

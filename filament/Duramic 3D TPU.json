@@ -1,0 +1,16 @@
+{
+    "filament_settings_id": [
+        "Duramic 3D TPU"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "55"
+    ],
+    "inherits": "Prusa Generic TPU @MINIIS",
+    "is_custom_defined": "0",
+    "name": "Duramic 3D TPU",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "version": "2.3.0.0"
+}
